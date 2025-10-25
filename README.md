@@ -46,6 +46,7 @@ The dashboard provides a comprehensive overview of product performance, costs, a
   - **Middle East regions**
 
 ---
+![tableau](https://github.com/user-attachments/assets/8bdebbd0-a41a-4a8f-8f9e-cfd0e9a0df6d)
 
 ## 🌍 Data Insights
 
